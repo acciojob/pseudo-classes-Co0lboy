@@ -3,16 +3,16 @@ body{
 	background-color:rgb(135, 206, 235);
 }
 
-#eg-1{
+#my-article p:first-child{
 	color:white;
 	background-color:black;
 }
 
-#eg-2{
+#my-article p:nth-child(2){
 	
 }
 
-#eg-3{
+#my-article p:last-child{
 	color:red;
 }
 
