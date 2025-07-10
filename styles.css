@@ -1,6 +1,10 @@
 /*  your css code here. If applicable */
+
+:root{
+	--page-bg:rgb(135,206,235);
+}
 body{
-	background-color:rgb(135, 206, 235);
+	background-color:var(--page-bg);
 }
 
 #my-article p:first-child{
