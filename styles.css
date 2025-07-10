@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(135, 206, 235);
+}
+
+#eg-1{
+	color:white;
+	background-color:black;
+}
+
+#eg-2{
+	
+}
+
+#eg-3{
+	color:red;
+}
+
+#eg-ul li:nth-child(odd){
+	background-color:white;
+}
+
+#eg-ul li{
+	background-color:gray;
+	width:50%;
+	padding:10px;
+}
+
+#eg-ul li:first-child,#eg-ul li:last-child{
+	font-size:22px;
+}
+#eg-ul li:nth-child(3){
+	background-color:pink;
+}
+
+
